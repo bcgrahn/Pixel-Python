@@ -1,0 +1,23 @@
+Controls:
+    
+Up arrow: changes the snake's direction to upwards
+Down arrow: changes the snake's direction to downwards
+Left arrow: changes the snakes direction to the left
+Right arrow: changes the snakes direction to the right
+   
+  
+How to Play:
+  
+EAT IT: A snake constantly moves around the board.
+It is your goal to control the direction the "head" of the snake moves, either up, down,
+left or right in a 2D playing field.
+You must get the snake to eat apples that randomly appear on the screen.
+You do this by hitting the apple with the snakes head.
+Eating an apple causes the snake to grow in length, one unit at a time and your score increases by one.
+The game ends if the snake crashes into the edge of the board, itself or random blocks (lily or
+or sand-stone blocks) that may appear and your lives are reduced to zero.
+As the game progresses you may obtain power ups by eating special golden apples that slow the speed,
+earn double points for 20 seconds, obtain invincibility for 20 seconds or gain a bonus life.
+  
+  
+Goodluck!
